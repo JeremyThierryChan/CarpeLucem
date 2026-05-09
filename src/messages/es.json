@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "brand": "Carpe Lucem",
+    "about": "Nuestra Historia",
+    "products": "Productos",
+    "services": "Servicios",
+    "journal": "Diario",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "tagline": "Carpe Lucem",
+    "subtitle": "El Arte de Vivir con Excelencia",
+    "description": "Carpe Lucem — latín para 'aprovechar la luz'. Seleccionamos los ingredientes más excepcionales del mundo, vinos y provisiones artesanales para quienes se niegan a conformarse con menos que lo extraordinario.",
+    "cta_primary": "Explorar",
+    "cta_secondary": "Nuestra Historia"
+  },
+  "about": {
+    "label": "Nuestra Historia",
+    "title": "Sin Concesiones. Jamás.",
+    "body": "Carpe Lucem nació de una firme creencia en el poder de la calidad excepcional. Creemos que cada comida, cada reunión, cada viaje merece estar acompañado de las mejores cosas de la vida. Buscamos los ingredientes y vinos más distinguidos del mundo para ayudarle a crear momentos que perduran.",
+    "cta": "Leer Más"
+  },
+  "products": {
+    "label": "Productos",
+    "title": "Un Mundo de Excelencia",
+    "subtitle": "De la mesa a la bodega — cada producto rigurosamente seleccionado",
+    "categories": {
+      "ingredients": {
+        "name": "Ingredientes & Condimentos Premium",
+        "description": "Trufas, aceites envejecidos y especias raras de Francia, Japón e Italia"
+      },
+      "spirits": {
+        "name": "Licores Finos & Aguas",
+        "description": "Maltas únicas raras, cuvées de prestigio y aguas minerales artesanales"
+      },
+      "charcuterie": {
+        "name": "Charcutería & Lácteos",
+        "description": "Jamón ibérico, terrinas francesas, quesos curados y mantequillas artesanales"
+      }
+    },
+    "cta": "Ver Todos los Productos",
+    "detail": {
+      "ingredients": {
+        "label": "Ingredientes & Condimentos",
+        "title": "Donde Comienza el Sabor",
+        "subtitle": "Cada gramo de especia, cada gota de aceite — portando la memoria de su terruño",
+        "intro": "[Contenido pendiente: filosofía de marca sobre ingredientes premium]",
+        "origin_label": "Procedencia",
+        "origin_body": "[Contenido pendiente: orígenes principales — trufas del Périgord, aceite de oliva siciliano, sales de Kioto]",
+        "selection_label": "Nuestros Estándares",
+        "selection_body": "[Contenido pendiente: proceso de selección, certificaciones, productores asociados]",
+        "products_label": "La Colección",
+        "placeholder_products": [
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Descripción]" }
+        ]
+      },
+      "spirits": {
+        "label": "Licores Finos & Aguas",
+        "title": "Regalos del Tiempo",
+        "subtitle": "De las Tierras Altas escocesas a la costa de Champagne — paciencia destilada en perfección",
+        "intro": "[Contenido pendiente: filosofía de selección de licores finos y aguas excepcionales]",
+        "origin_label": "Terruño & Región",
+        "origin_body": "[Contenido pendiente: regiones principales — destilerías escocesas, casas de Champagne, productores japoneses]",
+        "selection_label": "Estándares de Curaduría",
+        "selection_body": "[Contenido pendiente: criterios de selección, notas de añada, principios de selección de aguas]",
+        "products_label": "La Colección",
+        "placeholder_products": [
+          { "name": "[Nombre del Licor]", "origin": "[Región]", "note": "[Añada o carácter]" },
+          { "name": "[Nombre del Licor]", "origin": "[Región]", "note": "[Añada o carácter]" },
+          { "name": "[Nombre del Licor]", "origin": "[Región]", "note": "[Añada o carácter]" },
+          { "name": "[Nombre del Agua]", "origin": "[Fuente]", "note": "[Carácter del agua]" },
+          { "name": "[Nombre del Agua]", "origin": "[Fuente]", "note": "[Carácter del agua]" },
+          { "name": "[Nombre del Agua]", "origin": "[Fuente]", "note": "[Carácter del agua]" }
+        ]
+      },
+      "charcuterie": {
+        "label": "Charcutería & Lácteos",
+        "title": "Artesanía Milenaria",
+        "subtitle": "Siglos de tradición — destilados en cada loncha de jamón y cada corteza envejecida",
+        "intro": "[Contenido pendiente: filosofía de aprovisionamiento de charcutería artesanal y lácteos]",
+        "origin_label": "Artesanía & Origen",
+        "origin_body": "[Contenido pendiente: orígenes principales — ibérico español, charcutería corsa, Parmigiano-Reggiano, mantequilla normanda]",
+        "selection_label": "Nuestros Estándares",
+        "selection_body": "[Contenido pendiente: estándares de selección, certificaciones DOP, requisitos de maduración]",
+        "products_label": "La Colección",
+        "placeholder_products": [
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" },
+          { "name": "[Nombre del Producto]", "origin": "[Origen]", "note": "[Maduración o proceso]" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "label": "Servicios",
+    "title": "Más Allá del Producto",
+    "subtitle": "No solo entregamos excelencia — creamos cada momento precioso",
+    "items": {
+      "travel": {
+        "name": "Curaduría de Viajes de Lujo",
+        "description": "Viajes gastronómicos a medida, visitas a fincas e itinerarios privados a los mejores terruños del mundo"
+      },
+      "tasting": {
+        "name": "Catas Privadas",
+        "description": "Experiencias íntimas de cata y maridaje con sommelier experto"
+      },
+      "gifts": {
+        "name": "Cajas Regalo a Medida",
+        "description": "Cestas de lujo curadas para clientes corporativos y privados — una declaración de buen gusto"
+      }
+    },
+    "cta": "Explorar Servicios",
+    "detail": {
+      "travel": {
+        "label": "Curaduría de Viajes de Lujo",
+        "title": "Un Viaje hacia la Luz",
+        "subtitle": "Cada viaje es un diálogo con los terruños más extraordinarios del mundo",
+        "intro": "[Contenido pendiente: filosofía del servicio de viajes]",
+        "how_label": "Cómo le Servimos",
+        "steps": [
+          { "step": "01", "title": "Consulta Detallada", "body": "[Contenido pendiente: proceso de consulta inicial]" },
+          { "step": "02", "title": "Itinerario a Medida", "body": "[Contenido pendiente: diseño de itinerario y reservas]" },
+          { "step": "03", "title": "Acompañamiento Dedicado", "body": "[Contenido pendiente: servicio de acompañamiento personal]" },
+          { "step": "04", "title": "Recuerdos Duraderos", "body": "[Contenido pendiente: regalos y curaduría post-viaje]" }
+        ],
+        "destinations_label": "Destinos Seleccionados",
+        "destinations": ["[Destino 1]", "[Destino 2]", "[Destino 3]", "[Destino 4]", "[Destino 5]", "[Destino 6]"]
+      },
+      "tasting": {
+        "label": "Catas Privadas",
+        "title": "Un Festín para los Sentidos",
+        "subtitle": "En un entorno íntimo y refinado, deje que el gusto le guíe en un viaje de descubrimiento",
+        "intro": "[Contenido pendiente: filosofía de catas — el equilibrio entre educación, placer e intimidad]",
+        "how_label": "Formatos de Cata",
+        "steps": [
+          { "step": "01", "title": "Diseño a Medida", "body": "[Contenido pendiente: programas de cata personalizados]" },
+          { "step": "02", "title": "Sommelier Experto", "body": "[Contenido pendiente: perfil del sommelier y estilo de presentación]" },
+          { "step": "03", "title": "Selección Curada", "body": "[Contenido pendiente: lógica de maridaje vino-comida]" },
+          { "step": "04", "title": "Conocimiento & Descubrimiento", "body": "[Contenido pendiente: componente educativo]" }
+        ],
+        "formats_label": "Formatos Disponibles",
+        "formats": ["Cata en Residencia Privada", "Experiencia Corporativa", "Serie Temática", "Cata Virtual"]
+      },
+      "gifts": {
+        "label": "Cajas Regalo a Medida",
+        "title": "Regala la Luz",
+        "subtitle": "Un regalo cuidadosamente curado es una declaración de gusto y una expresión de sentimiento",
+        "intro": "[Contenido pendiente: filosofía de curaduría de regalos]",
+        "how_label": "El Proceso",
+        "steps": [
+          { "step": "01", "title": "Consulta Inicial", "body": "[Contenido pendiente: comprensión de la ocasión y preferencias]" },
+          { "step": "02", "title": "Selección de Contenidos", "body": "[Contenido pendiente: selección de productos]" },
+          { "step": "03", "title": "Embalaje a Medida", "body": "[Contenido pendiente: embalaje personalizado y tarjeta]" },
+          { "step": "04", "title": "Entrega con Guante Blanco", "body": "[Contenido pendiente: opciones de entrega nacional e internacional]" }
+        ],
+        "occasions_label": "Ocasiones Ideales",
+        "occasions": ["Regalos Corporativos de Fin de Año", "Relaciones Empresariales Premium", "Recuerdos de Boda", "Celebraciones Privadas", "Encargos Co-Branded"]
+      }
+    }
+  },
+  "journal": {
+    "label": "Diario",
+    "title": "Notas de Luz",
+    "subtitle": "Reflexiones sobre el terruño, la artesanía y el arte de vivir con intención",
+    "read_more": "Leer Artículo",
+    "coming_soon": "Más historias próximamente",
+    "placeholder_posts": [
+      { "category": "Historias del Terruño", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "Primavera 2025" },
+      { "category": "Notas de Cata", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "Primavera 2025" },
+      { "category": "Diario de Viaje", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "Verano 2025" },
+      { "category": "Guía de Regalos", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "Otoño 2025" },
+      { "category": "Inspiración Culinaria", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "Otoño 2025" },
+      { "category": "Historia de Marca", "title": "[Título del Artículo]", "excerpt": "[Contenido pendiente: extracto del artículo]", "date": "2024" }
+    ]
+  },
+  "cta_section": {
+    "title": "Comience su Experiencia",
+    "subtitle": "Ya sea para usted o como regalo para alguien extraordinario, Carpe Lucem está a su servicio",
+    "cta": "Ponerse en Contacto"
+  },
+  "contact": {
+    "label": "Contacto",
+    "title": "Hablemos",
+    "subtitle": "Nuestro equipo está siempre listo para ofrecer orientación personalizada",
+    "form": {
+      "name": "Nombre Completo",
+      "email": "Dirección de Correo",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "success": "Gracias por ponerse en contacto. Le responderemos en breve."
+    },
+    "info": {
+      "email_label": "Correo",
+      "wechat_label": "WeChat"
+    }
+  },
+  "footer": {
+    "tagline": "Aprovecha la Luz. Vive Excepcionalmente.",
+    "rights": "Todos los derechos reservados",
+    "nav_products": "Productos",
+    "nav_services": "Servicios",
+    "nav_journal": "Diario"
+  }
+}

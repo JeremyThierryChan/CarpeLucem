@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "brand": "Carpe Lucem",
+    "about": "Notre Histoire",
+    "products": "Produits",
+    "services": "Services",
+    "journal": "Journal",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Carpe Lucem",
+    "subtitle": "L'Art de Vivre avec Excellence",
+    "description": "Carpe Lucem — latin pour « saisir la lumière ». Nous sélectionnons les ingrédients les plus exceptionnels du monde, des vins et des provisions artisanales pour ceux qui refusent de se contenter de moins que l'extraordinaire.",
+    "cta_primary": "Explorer",
+    "cta_secondary": "Notre Histoire"
+  },
+  "about": {
+    "label": "Notre Histoire",
+    "title": "Sans Compromis. Jamais.",
+    "body": "Carpe Lucem est née d'une conviction inébranlable dans le pouvoir de la qualité exceptionnelle. Nous croyons que chaque repas, chaque rassemblement, chaque voyage mérite d'être accompagné des meilleures choses de la vie. Nous sélectionnons les ingrédients et les vins les plus distingués du monde pour vous aider à créer des moments qui perdurent.",
+    "cta": "En Savoir Plus"
+  },
+  "products": {
+    "label": "Produits",
+    "title": "Un Monde d'Excellence",
+    "subtitle": "De la table à la cave — chaque produit rigoureusement sélectionné",
+    "categories": {
+      "ingredients": {
+        "name": "Ingrédients & Condiments Premium",
+        "description": "Truffes, huiles vieillies et épices rares de France, du Japon et d'Italie"
+      },
+      "spirits": {
+        "name": "Spiritueux Fins & Eaux",
+        "description": "Rares single malts, cuvées de prestige et eaux minérales artisanales"
+      },
+      "charcuterie": {
+        "name": "Charcuterie & Produits Laitiers",
+        "description": "Jambon ibérique, terrines françaises, fromages affinés et beurres artisanaux"
+      }
+    },
+    "cta": "Voir Tous les Produits",
+    "detail": {
+      "ingredients": {
+        "label": "Ingrédients & Condiments",
+        "title": "Là où Commence la Saveur",
+        "subtitle": "Chaque gramme d'épice, chaque goutte d'huile — portant la mémoire de son terroir",
+        "intro": "[Contenu à compléter : philosophie de la marque sur les ingrédients premium]",
+        "origin_label": "Provenance",
+        "origin_body": "[Contenu à compléter : origines principales — truffes du Périgord, huile sicilienne, sels de Kyoto]",
+        "selection_label": "Nos Exigences",
+        "selection_body": "[Contenu à compléter : processus de sélection, certifications, producteurs partenaires]",
+        "products_label": "La Collection",
+        "placeholder_products": [
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Description]" }
+        ]
+      },
+      "spirits": {
+        "label": "Spiritueux Fins & Eaux",
+        "title": "Les Dons du Temps",
+        "subtitle": "Des Highlands écossaises à la côte champenoise — la patience distillée en perfection",
+        "intro": "[Contenu à compléter : philosophie de sélection des spiritueux fins et des eaux exceptionnelles]",
+        "origin_label": "Terroir & Région",
+        "origin_body": "[Contenu à compléter : régions principales — distilleries écossaises, maisons de Champagne, producteurs japonais]",
+        "selection_label": "Critères de Sélection",
+        "selection_body": "[Contenu à compléter : critères de sélection, notes de millésime, principes de sélection des eaux]",
+        "products_label": "La Collection",
+        "placeholder_products": [
+          { "name": "[Nom du Spiritueux]", "origin": "[Région]", "note": "[Millésime ou caractère]" },
+          { "name": "[Nom du Spiritueux]", "origin": "[Région]", "note": "[Millésime ou caractère]" },
+          { "name": "[Nom du Spiritueux]", "origin": "[Région]", "note": "[Millésime ou caractère]" },
+          { "name": "[Nom de l'Eau]", "origin": "[Source]", "note": "[Caractère de l'eau]" },
+          { "name": "[Nom de l'Eau]", "origin": "[Source]", "note": "[Caractère de l'eau]" },
+          { "name": "[Nom de l'Eau]", "origin": "[Source]", "note": "[Caractère de l'eau]" }
+        ]
+      },
+      "charcuterie": {
+        "label": "Charcuterie & Produits Laitiers",
+        "title": "L'Art Ancestral",
+        "subtitle": "Des siècles de tradition — distillés dans chaque tranche de jambon et chaque croûte affinée",
+        "intro": "[Contenu à compléter : philosophie d'approvisionnement en charcuterie artisanale et produits laitiers]",
+        "origin_label": "Savoir-faire & Origine",
+        "origin_body": "[Contenu à compléter : origines principales — ibérique espagnol, charcuterie corse, Parmigiano-Reggiano, beurre normand]",
+        "selection_label": "Nos Exigences",
+        "selection_body": "[Contenu à compléter : standards de sélection, certifications AOP/DOP, exigences d'affinage]",
+        "products_label": "La Collection",
+        "placeholder_products": [
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" },
+          { "name": "[Nom du Produit]", "origin": "[Origine]", "note": "[Affinage ou procédé]" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "Au-delà du Produit",
+    "subtitle": "Nous ne livrons pas seulement l'excellence — nous façonnons chaque moment précieux",
+    "items": {
+      "travel": {
+        "name": "Curation de Voyages de Luxe",
+        "description": "Voyages gastronomiques sur mesure, visites de domaines et itinéraires privés vers les meilleurs terroirs du monde"
+      },
+      "tasting": {
+        "name": "Dégustations Privées",
+        "description": "Expériences de dégustation intimistes et accords mets-vins animés par des sommeliers experts"
+      },
+      "gifts": {
+        "name": "Coffrets Cadeaux sur Mesure",
+        "description": "Coffrets de luxe curatés pour clients professionnels et privés — une déclaration de goût"
+      }
+    },
+    "cta": "Explorer les Services",
+    "detail": {
+      "travel": {
+        "label": "Curation de Voyages de Luxe",
+        "title": "Un Voyage vers la Lumière",
+        "subtitle": "Chaque voyage est un dialogue avec les terroirs les plus extraordinaires du monde",
+        "intro": "[Contenu à compléter : philosophie du service de voyages]",
+        "how_label": "Comment Nous Vous Servons",
+        "steps": [
+          { "step": "01", "title": "Consultation Approfondie", "body": "[Contenu à compléter : processus de consultation initiale]" },
+          { "step": "02", "title": "Itinéraire sur Mesure", "body": "[Contenu à compléter : conception de l'itinéraire et réservations]" },
+          { "step": "03", "title": "Accompagnement Dédié", "body": "[Contenu à compléter : service d'accompagnement personnel]" },
+          { "step": "04", "title": "Souvenirs Durables", "body": "[Contenu à compléter : cadeaux et curation post-voyage]" }
+        ],
+        "destinations_label": "Destinations Sélectionnées",
+        "destinations": ["[Destination 1]", "[Destination 2]", "[Destination 3]", "[Destination 4]", "[Destination 5]", "[Destination 6]"]
+      },
+      "tasting": {
+        "label": "Dégustations Privées",
+        "title": "Un Festin pour les Sens",
+        "subtitle": "Dans un cadre intimiste et raffiné, laissez le goût vous guider dans un voyage de découverte",
+        "intro": "[Contenu à compléter : philosophie des dégustations]",
+        "how_label": "Formats de Dégustation",
+        "steps": [
+          { "step": "01", "title": "Conception sur Mesure", "body": "[Contenu à compléter : programmes de dégustation personnalisés]" },
+          { "step": "02", "title": "Sommelier Expert", "body": "[Contenu à compléter : profil du sommelier]" },
+          { "step": "03", "title": "Sélection Curatée", "body": "[Contenu à compléter : logique d'accord mets-vins]" },
+          { "step": "04", "title": "Savoir & Découverte", "body": "[Contenu à compléter : composante éducative]" }
+        ],
+        "formats_label": "Formats Disponibles",
+        "formats": ["Dégustation en Résidence Privée", "Expérience en Entreprise", "Série Thématique", "Dégustation Virtuelle"]
+      },
+      "gifts": {
+        "label": "Coffrets Cadeaux sur Mesure",
+        "title": "Offrir la Lumière",
+        "subtitle": "Un cadeau soigneusement curé est une déclaration de goût et une expression du sentiment",
+        "intro": "[Contenu à compléter : philosophie de la curation de cadeaux]",
+        "how_label": "Le Processus",
+        "steps": [
+          { "step": "01", "title": "Consultation Initiale", "body": "[Contenu à compléter : compréhension de l'occasion et des préférences]" },
+          { "step": "02", "title": "Sélection du Contenu", "body": "[Contenu à compléter : sélection des produits]" },
+          { "step": "03", "title": "Packaging sur Mesure", "body": "[Contenu à compléter : emballage personnalisé et carte]" },
+          { "step": "04", "title": "Livraison White-Glove", "body": "[Contenu à compléter : options de livraison nationale et internationale]" }
+        ],
+        "occasions_label": "Occasions Idéales",
+        "occasions": ["Cadeaux d'Entreprise de Fin d'Année", "Relations Commerciales Premium", "Cadeaux de Mariage", "Célébrations Privées", "Commissions Co-Brandées"]
+      }
+    }
+  },
+  "journal": {
+    "label": "Journal",
+    "title": "Notes de Lumière",
+    "subtitle": "Réflexions sur le terroir, l'artisanat et l'art de vivre avec intention",
+    "read_more": "Lire l'Article",
+    "coming_soon": "D'autres histoires à venir",
+    "placeholder_posts": [
+      { "category": "Histoires de Terroir", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "Printemps 2025" },
+      { "category": "Notes de Dégustation", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "Printemps 2025" },
+      { "category": "Carnet de Voyage", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "Été 2025" },
+      { "category": "Guide Cadeaux", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "Automne 2025" },
+      { "category": "Inspiration Culinaire", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "Automne 2025" },
+      { "category": "Histoire de Marque", "title": "[Titre de l'Article]", "excerpt": "[Contenu à compléter : extrait de l'article]", "date": "2024" }
+    ]
+  },
+  "cta_section": {
+    "title": "Commencez Votre Expérience",
+    "subtitle": "Que ce soit pour vous ou en cadeau pour quelqu'un d'extraordinaire, Carpe Lucem est à votre service",
+    "cta": "Prendre Contact"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Parlons",
+    "subtitle": "Notre équipe est toujours prête à vous offrir des conseils personnalisés",
+    "form": {
+      "name": "Nom Complet",
+      "email": "Adresse Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le Message",
+      "success": "Merci de nous avoir contactés. Nous vous répondrons dans les meilleurs délais."
+    },
+    "info": {
+      "email_label": "Email",
+      "wechat_label": "WeChat"
+    }
+  },
+  "footer": {
+    "tagline": "Saisissez la Lumière. Vivez Exceptionnellement.",
+    "rights": "Tous droits réservés",
+    "nav_products": "Produits",
+    "nav_services": "Services",
+    "nav_journal": "Journal"
+  }
+}

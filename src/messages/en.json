@@ -1,0 +1,243 @@
+{
+  "nav": {
+    "brand": "Carpe Lucem",
+    "about": "Our Story",
+    "products": "Products",
+    "services": "Services",
+    "journal": "Journal",
+    "contact": "Contact"
+  },
+  "hero": {
+    "tagline": "Carpe Lucem",
+    "subtitle": "The Art of the Finest Living",
+    "description": "Carpe Lucem — Latin for 'seize the light.' We curate the world's most exceptional ingredients, wines, and artisan provisions for those who refuse to settle for anything less than extraordinary.",
+    "cta_primary": "Explore",
+    "cta_secondary": "Our Story"
+  },
+  "about": {
+    "label": "Our Story",
+    "title": "No Compromises. Ever.",
+    "body": "Carpe Lucem was born from an unwavering belief in the power of exceptional quality. We believe every meal, every gathering, every journey deserves to be accompanied by the finest things in life. We source the world's most distinguished ingredients and vintages to help you and those you love create moments that endure.",
+    "cta": "Read More"
+  },
+  "products": {
+    "label": "Products",
+    "title": "A World of Excellence",
+    "subtitle": "From the table to the cellar — every product rigorously selected",
+    "categories": {
+      "ingredients": {
+        "name": "Premium Ingredients & Seasonings",
+        "description": "Truffles, aged oils, and rare spices from France, Japan, and Italy"
+      },
+      "spirits": {
+        "name": "Fine Spirits & Water",
+        "description": "Rare single malts, prestige cuvées, and artisan mineral waters"
+      },
+      "charcuterie": {
+        "name": "Charcuterie & Dairy",
+        "description": "Ibérico ham, French terrines, aged cheeses, and hand-churned butters"
+      }
+    },
+    "cta": "View All Products",
+    "detail": {
+      "ingredients": {
+        "label": "Ingredients & Seasonings",
+        "title": "Where Flavour Begins",
+        "subtitle": "Every gram of spice, every drop of oil — carrying the memory of its terroir and the care of its maker",
+        "intro": "[Placeholder: Brand philosophy on premium ingredients — sourcing standards, provenance, and what sets each product apart]",
+        "origin_label": "Provenance",
+        "origin_body": "[Placeholder: Key origins — Périgord truffles, Sicilian extra-virgin olive oil, Kyoto finishing salts, etc.]",
+        "selection_label": "Our Standards",
+        "selection_body": "[Placeholder: Selection process, quality certifications, partner producers]",
+        "products_label": "The Collection",
+        "placeholder_products": [
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Product note]" }
+        ]
+      },
+      "spirits": {
+        "label": "Fine Spirits & Water",
+        "title": "Gifts of Time",
+        "subtitle": "From the Scottish Highlands to the Champagne coast — patience distilled into perfection",
+        "intro": "[Placeholder: Philosophy on curating fine spirits and exceptional waters]",
+        "origin_label": "Terroir & Region",
+        "origin_body": "[Placeholder: Key regions — Scottish single malt distilleries, Champagne houses, Japanese whisky producers, Alpine water sources]",
+        "selection_label": "Curation Standards",
+        "selection_body": "[Placeholder: Selection criteria, vintage notes, water sourcing principles]",
+        "products_label": "The Collection",
+        "placeholder_products": [
+          { "name": "[Spirit Name]", "origin": "[Region]", "note": "[Vintage or character]" },
+          { "name": "[Spirit Name]", "origin": "[Region]", "note": "[Vintage or character]" },
+          { "name": "[Spirit Name]", "origin": "[Region]", "note": "[Vintage or character]" },
+          { "name": "[Water Name]", "origin": "[Source]", "note": "[Water character]" },
+          { "name": "[Water Name]", "origin": "[Source]", "note": "[Water character]" },
+          { "name": "[Water Name]", "origin": "[Source]", "note": "[Water character]" }
+        ]
+      },
+      "charcuterie": {
+        "label": "Charcuterie & Dairy",
+        "title": "Time-Honoured Craft",
+        "subtitle": "Centuries of tradition — distilled into every slice of ham and every aged rind",
+        "intro": "[Placeholder: Philosophy on sourcing artisan charcuterie and dairy]",
+        "origin_label": "Craft & Origin",
+        "origin_body": "[Placeholder: Key origins — Spanish Ibérico, Corsican charcuterie, Parmigiano-Reggiano, Norman butter, etc.]",
+        "selection_label": "Our Standards",
+        "selection_body": "[Placeholder: Selection standards, certifications (DOP, AOP), ageing requirements, cold chain logistics]",
+        "products_label": "The Collection",
+        "placeholder_products": [
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" },
+          { "name": "[Product Name]", "origin": "[Origin]", "note": "[Ageing or process]" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "label": "Services",
+    "title": "Beyond the Product",
+    "subtitle": "We don't just deliver excellence — we craft every precious moment",
+    "items": {
+      "travel": {
+        "name": "Luxury Travel Curation",
+        "description": "Bespoke gastronomic journeys, estate visits, and private itineraries to the world's finest terroirs"
+      },
+      "tasting": {
+        "name": "Private Tastings",
+        "description": "Intimate tasting experiences and food-pairing sessions hosted by master sommeliers"
+      },
+      "gifts": {
+        "name": "Bespoke Gift Boxes",
+        "description": "Curated luxury hampers for corporate and private clients — a statement of taste"
+      }
+    },
+    "cta": "Explore Services",
+    "detail": {
+      "travel": {
+        "label": "Luxury Travel Curation",
+        "title": "Journey Into the Light",
+        "subtitle": "Every journey is a dialogue with the world's most extraordinary terroirs",
+        "intro": "[Placeholder: Travel service philosophy — what makes Carpe Lucem's travel curation unique]",
+        "how_label": "How We Serve You",
+        "steps": [
+          { "step": "01", "title": "In-Depth Consultation", "body": "[Placeholder: Initial consultation process — understanding preferences, travel style, and budget]" },
+          { "step": "02", "title": "Bespoke Itinerary", "body": "[Placeholder: Itinerary design, estate bookings, private guide arrangements]" },
+          { "step": "03", "title": "Dedicated Accompaniment", "body": "[Placeholder: Personal concierge and expert companion service description]" },
+          { "step": "04", "title": "Lasting Memories", "body": "[Placeholder: Trip souvenirs, curated gifts from the journey, follow-up curation]" }
+        ],
+        "destinations_label": "Selected Destinations",
+        "destinations": ["[Destination 1]", "[Destination 2]", "[Destination 3]", "[Destination 4]", "[Destination 5]", "[Destination 6]"]
+      },
+      "tasting": {
+        "label": "Private Tastings",
+        "title": "A Feast for the Senses",
+        "subtitle": "In an intimate and refined setting, let taste lead you on a journey of discovery",
+        "intro": "[Placeholder: Tasting philosophy — the balance of education, pleasure, and intimacy]",
+        "how_label": "Tasting Formats",
+        "steps": [
+          { "step": "01", "title": "Bespoke Design", "body": "[Placeholder: Custom tasting programmes based on group size and theme]" },
+          { "step": "02", "title": "Expert Host", "body": "[Placeholder: Sommelier background and hosting style description]" },
+          { "step": "03", "title": "Curated Selection", "body": "[Placeholder: Wine and food pairing logic and seasonal themes]" },
+          { "step": "04", "title": "Knowledge & Discovery", "body": "[Placeholder: Educational component — tasting notes, collecting advice]" }
+        ],
+        "formats_label": "Available Formats",
+        "formats": ["Private Residence Tasting", "Corporate Team Experience", "Themed Series", "Virtual Tasting"]
+      },
+      "gifts": {
+        "label": "Bespoke Gift Boxes",
+        "title": "Give the Light",
+        "subtitle": "A thoughtfully curated gift is a declaration of taste and an expression of feeling",
+        "intro": "[Placeholder: Gift curation philosophy — personalisation, luxury, and meaning]",
+        "how_label": "The Process",
+        "steps": [
+          { "step": "01", "title": "Discovery Consultation", "body": "[Placeholder: Understanding the occasion, recipient preferences, and budget]" },
+          { "step": "02", "title": "Content Curation", "body": "[Placeholder: Product selection — ingredients, spirits, accessories, and more]" },
+          { "step": "03", "title": "Bespoke Packaging", "body": "[Placeholder: Custom packaging, brand embossing, personalised card service]" },
+          { "step": "04", "title": "White-Glove Delivery", "body": "[Placeholder: Domestic and international delivery options and lead times]" }
+        ],
+        "occasions_label": "Ideal Occasions",
+        "occasions": ["Corporate Year-End Gifting", "High-End Business Relations", "Wedding Favours", "Private Celebrations", "Co-Branded Commissions"]
+      }
+    }
+  },
+  "journal": {
+    "label": "Journal",
+    "title": "Notes on Light",
+    "subtitle": "Reflections on terroir, craft, and the art of living with intention",
+    "read_more": "Read Article",
+    "coming_soon": "More stories coming soon",
+    "placeholder_posts": [
+      {
+        "category": "Terroir Stories",
+        "title": "[Article Title: An in-depth visit to a remarkable producer or region]",
+        "excerpt": "[Placeholder: ~150-word excerpt introducing the producer, the landscape, and what makes this terroir exceptional]",
+        "date": "Spring 2025"
+      },
+      {
+        "category": "Tasting Notes",
+        "title": "[Article Title: Tasting notes for a rare or significant vintage]",
+        "excerpt": "[Placeholder: ~150-word tasting record — aromas, palate, finish, and pairing suggestions]",
+        "date": "Spring 2025"
+      },
+      {
+        "category": "Travel Journal",
+        "title": "[Article Title: A gastronomic journey through a key producing region]",
+        "excerpt": "[Placeholder: Travel account capturing the landscape, people, and flavours of the region]",
+        "date": "Summer 2025"
+      },
+      {
+        "category": "Gift Guide",
+        "title": "[Article Title: A seasonal guide to exceptional gifting]",
+        "excerpt": "[Placeholder: Curated gift suggestions for the season, with notes on occasion and recipient]",
+        "date": "Autumn 2025"
+      },
+      {
+        "category": "Recipe Inspiration",
+        "title": "[Article Title: A recipe built around a signature ingredient]",
+        "excerpt": "[Placeholder: Recipe backstory, key technique, and product recommendation]",
+        "date": "Autumn 2025"
+      },
+      {
+        "category": "Brand Story",
+        "title": "[Article Title: The story behind Carpe Lucem]",
+        "excerpt": "[Placeholder: Founding story, the philosophy behind the name, and the vision for what comes next]",
+        "date": "2024"
+      }
+    ]
+  },
+  "cta_section": {
+    "title": "Begin Your Experience",
+    "subtitle": "Whether for yourself or as a gift for someone extraordinary, Carpe Lucem is at your service",
+    "cta": "Get in Touch"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's Talk",
+    "subtitle": "Our team is always ready to offer personalised guidance",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you for reaching out. We will be in touch shortly."
+    },
+    "info": {
+      "email_label": "Email",
+      "wechat_label": "WeChat"
+    }
+  },
+  "footer": {
+    "tagline": "Seize the Light. Live Exceptionally.",
+    "rights": "All rights reserved",
+    "nav_products": "Products",
+    "nav_services": "Services",
+    "nav_journal": "Journal"
+  }
+}

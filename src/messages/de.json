@@ -1,0 +1,213 @@
+{
+  "nav": {
+    "brand": "Carpe Lucem",
+    "about": "Unsere Geschichte",
+    "products": "Produkte",
+    "services": "Leistungen",
+    "journal": "Journal",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "tagline": "Carpe Lucem",
+    "subtitle": "Die Kunst des erlesenen Lebens",
+    "description": "Carpe Lucem — lateinisch für ‚Das Licht ergreifen'. Wir kuratieren die außergewöhnlichsten Zutaten der Welt, feine Weine und handwerkliche Erzeugnisse für Menschen, die sich mit weniger als dem Außergewöhnlichen nicht zufriedengeben.",
+    "cta_primary": "Entdecken",
+    "cta_secondary": "Unsere Geschichte"
+  },
+  "about": {
+    "label": "Unsere Geschichte",
+    "title": "Keine Kompromisse. Niemals.",
+    "body": "Carpe Lucem entstand aus der unerschütterlichen Überzeugung, dass außergewöhnliche Qualität zählt. Wir glauben, dass jede Mahlzeit, jede Begegnung, jede Reise von den besten Dingen des Lebens begleitet werden sollte. Wir beziehen die erlesensten Zutaten und Weine der Welt, um Ihnen und Ihren Liebsten unvergessliche Momente zu schenken.",
+    "cta": "Mehr Erfahren"
+  },
+  "products": {
+    "label": "Produkte",
+    "title": "Eine Welt der Exzellenz",
+    "subtitle": "Vom Tisch bis zum Keller — jedes Produkt strengstens ausgewählt",
+    "categories": {
+      "ingredients": {
+        "name": "Premium-Zutaten & Gewürze",
+        "description": "Trüffel, gereifte Öle und seltene Gewürze aus Frankreich, Japan und Italien"
+      },
+      "spirits": {
+        "name": "Feine Spirituosen & Wasser",
+        "description": "Seltene Single Malts, Prestige-Cuvées und handwerkliche Mineralwässer"
+      },
+      "charcuterie": {
+        "name": "Charcuterie & Milchprodukte",
+        "description": "Ibérico-Schinken, französische Terrinen, gereifte Käse und handgemachte Butter"
+      }
+    },
+    "cta": "Alle Produkte Ansehen",
+    "detail": {
+      "ingredients": {
+        "label": "Zutaten & Gewürze",
+        "title": "Wo der Geschmack Beginnt",
+        "subtitle": "Jedes Gramm Gewürz, jeder Tropfen Öl — trägt die Erinnerung seines Terroirs",
+        "intro": "[Inhalt ausstehend: Markenphilosophie zu Premium-Zutaten]",
+        "origin_label": "Herkunft",
+        "origin_body": "[Inhalt ausstehend: Hauptherkunftsgebiete — Trüffel aus dem Périgord, sizilianisches Olivenöl, Kyoto-Salze]",
+        "selection_label": "Unsere Standards",
+        "selection_body": "[Inhalt ausstehend: Auswahlprozess, Zertifizierungen, Partnererzeuger]",
+        "products_label": "Die Kollektion",
+        "placeholder_products": [
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Beschreibung]" }
+        ]
+      },
+      "spirits": {
+        "label": "Feine Spirituosen & Wasser",
+        "title": "Geschenke der Zeit",
+        "subtitle": "Von den schottischen Highlands bis zur Champagneküste — Geduld destilliert zur Perfektion",
+        "intro": "[Inhalt ausstehend: Philosophie zur Auswahl feiner Spirituosen und außergewöhnlicher Wässer]",
+        "origin_label": "Terroir & Region",
+        "origin_body": "[Inhalt ausstehend: Hauptregionen — schottische Destillerien, Champagnerhäuser, japanische Produzenten]",
+        "selection_label": "Kurierungsstandards",
+        "selection_body": "[Inhalt ausstehend: Auswahlkriterien, Jahrgangsnoten, Wasserauswahlprinzipien]",
+        "products_label": "Die Kollektion",
+        "placeholder_products": [
+          { "name": "[Spirituosenname]", "origin": "[Region]", "note": "[Jahrgang oder Charakter]" },
+          { "name": "[Spirituosenname]", "origin": "[Region]", "note": "[Jahrgang oder Charakter]" },
+          { "name": "[Spirituosenname]", "origin": "[Region]", "note": "[Jahrgang oder Charakter]" },
+          { "name": "[Wassername]", "origin": "[Quelle]", "note": "[Wassercharakter]" },
+          { "name": "[Wassername]", "origin": "[Quelle]", "note": "[Wassercharakter]" },
+          { "name": "[Wassername]", "origin": "[Quelle]", "note": "[Wassercharakter]" }
+        ]
+      },
+      "charcuterie": {
+        "label": "Charcuterie & Milchprodukte",
+        "title": "Jahrhundertealtes Handwerk",
+        "subtitle": "Jahrhunderte der Tradition — destilliert in jede Scheibe Schinken und jede gereifte Rinde",
+        "intro": "[Inhalt ausstehend: Philosophie zur Beschaffung handwerklicher Charcuterie und Milchprodukte]",
+        "origin_label": "Handwerk & Herkunft",
+        "origin_body": "[Inhalt ausstehend: Hauptherkunftsgebiete — spanisches Ibérico, korsische Charcuterie, Parmigiano-Reggiano, Normandie-Butter]",
+        "selection_label": "Unsere Standards",
+        "selection_body": "[Inhalt ausstehend: Auswahlstandards, g.U.-Zertifizierungen, Reifeanforderungen]",
+        "products_label": "Die Kollektion",
+        "placeholder_products": [
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" },
+          { "name": "[Produktname]", "origin": "[Herkunft]", "note": "[Reifung oder Verfahren]" }
+        ]
+      }
+    }
+  },
+  "services": {
+    "label": "Leistungen",
+    "title": "Jenseits des Produkts",
+    "subtitle": "Wir liefern nicht nur Exzellenz — wir gestalten jeden kostbaren Moment",
+    "items": {
+      "travel": {
+        "name": "Luxusreise-Kuration",
+        "description": "Maßgeschneiderte Genussreisen, Gutsbesuche und private Reiserouten zu den besten Terroirs der Welt"
+      },
+      "tasting": {
+        "name": "Private Verkostungen",
+        "description": "Intime Verkostungserlebnisse und Speise-Wein-Kombinationen mit Meister-Sommeliers"
+      },
+      "gifts": {
+        "name": "Maßgeschneiderte Geschenkboxen",
+        "description": "Kuratierte Luxuskörbe für Unternehmens- und Privatkunden — ein Bekenntnis zum guten Geschmack"
+      }
+    },
+    "cta": "Leistungen Erkunden",
+    "detail": {
+      "travel": {
+        "label": "Luxusreise-Kuration",
+        "title": "Eine Reise ins Licht",
+        "subtitle": "Jede Reise ist ein Dialog mit den außergewöhnlichsten Terroirs der Welt",
+        "intro": "[Inhalt ausstehend: Philosophie des Reiseservices]",
+        "how_label": "Wie Wir Sie Bedienen",
+        "steps": [
+          { "step": "01", "title": "Eingehende Beratung", "body": "[Inhalt ausstehend: Erstberatungsprozess]" },
+          { "step": "02", "title": "Maßgeschneiderte Reiseroute", "body": "[Inhalt ausstehend: Reiseroutengestaltung und Buchungen]" },
+          { "step": "03", "title": "Persönliche Begleitung", "body": "[Inhalt ausstehend: persönlicher Concierge-Service]" },
+          { "step": "04", "title": "Bleibende Erinnerungen", "body": "[Inhalt ausstehend: Reisegeschenke und Post-Reise-Kuration]" }
+        ],
+        "destinations_label": "Ausgewählte Reiseziele",
+        "destinations": ["[Reiseziel 1]", "[Reiseziel 2]", "[Reiseziel 3]", "[Reiseziel 4]", "[Reiseziel 5]", "[Reiseziel 6]"]
+      },
+      "tasting": {
+        "label": "Private Verkostungen",
+        "title": "Ein Fest für die Sinne",
+        "subtitle": "In einem intimen und verfeinerten Umfeld lassen Sie den Geschmack Sie auf eine Entdeckungsreise führen",
+        "intro": "[Inhalt ausstehend: Philosophie der Verkostungen]",
+        "how_label": "Verkostungsformate",
+        "steps": [
+          { "step": "01", "title": "Maßgeschneidertes Design", "body": "[Inhalt ausstehend: individuelle Verkostungsprogramme]" },
+          { "step": "02", "title": "Experten-Sommelier", "body": "[Inhalt ausstehend: Sommelier-Profil]" },
+          { "step": "03", "title": "Kuratierte Auswahl", "body": "[Inhalt ausstehend: Speise-Wein-Kombinationslogik]" },
+          { "step": "04", "title": "Wissen & Entdeckung", "body": "[Inhalt ausstehend: Bildungskomponente]" }
+        ],
+        "formats_label": "Verfügbare Formate",
+        "formats": ["Verkostung in Privatresidenz", "Unternehmensevent", "Themenserie", "Virtuelle Verkostung"]
+      },
+      "gifts": {
+        "label": "Maßgeschneiderte Geschenkboxen",
+        "title": "Das Licht Verschenken",
+        "subtitle": "Ein sorgfältig kuratiertes Geschenk ist ein Bekenntnis zum Geschmack und ein Ausdruck des Gefühls",
+        "intro": "[Inhalt ausstehend: Philosophie der Geschenkkuration]",
+        "how_label": "Der Prozess",
+        "steps": [
+          { "step": "01", "title": "Erstberatung", "body": "[Inhalt ausstehend: Verständnis des Anlasses und der Präferenzen]" },
+          { "step": "02", "title": "Inhaltskuration", "body": "[Inhalt ausstehend: Produktauswahl]" },
+          { "step": "03", "title": "Maßverpackung", "body": "[Inhalt ausstehend: personalisierte Verpackung und Karte]" },
+          { "step": "04", "title": "White-Glove-Lieferung", "body": "[Inhalt ausstehend: nationale und internationale Lieferoptionen]" }
+        ],
+        "occasions_label": "Ideale Anlässe",
+        "occasions": ["Unternehmens-Jahresendgeschenke", "Premium-Geschäftsbeziehungen", "Hochzeitsgeschenke", "Private Feierlichkeiten", "Co-Branded-Aufträge"]
+      }
+    }
+  },
+  "journal": {
+    "label": "Journal",
+    "title": "Notizen des Lichts",
+    "subtitle": "Betrachtungen über Terroir, Handwerk und die Kunst des bewussten Lebens",
+    "read_more": "Artikel Lesen",
+    "coming_soon": "Weitere Geschichten demnächst",
+    "placeholder_posts": [
+      { "category": "Terroir-Geschichten", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "Frühling 2025" },
+      { "category": "Verkostungsnotizen", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "Frühling 2025" },
+      { "category": "Reisetagebuch", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "Sommer 2025" },
+      { "category": "Geschenkratgeber", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "Herbst 2025" },
+      { "category": "Kulinarische Inspiration", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "Herbst 2025" },
+      { "category": "Markengeschichte", "title": "[Artikeltitel]", "excerpt": "[Inhalt ausstehend: Artikelauszug]", "date": "2024" }
+    ]
+  },
+  "cta_section": {
+    "title": "Beginnen Sie Ihr Erlebnis",
+    "subtitle": "Ob für sich selbst oder als Geschenk für jemanden Außergewöhnliches — Carpe Lucem steht zu Ihren Diensten",
+    "cta": "Kontakt Aufnehmen"
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Sprechen Wir",
+    "subtitle": "Unser Team ist stets bereit, Sie persönlich zu beraten",
+    "form": {
+      "name": "Vollständiger Name",
+      "email": "E-Mail-Adresse",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht Senden",
+      "success": "Vielen Dank für Ihre Nachricht. Wir werden uns in Kürze bei Ihnen melden."
+    },
+    "info": {
+      "email_label": "E-Mail",
+      "wechat_label": "WeChat"
+    }
+  },
+  "footer": {
+    "tagline": "Ergreife das Licht. Lebe Außergewöhnlich.",
+    "rights": "Alle Rechte vorbehalten",
+    "nav_products": "Produkte",
+    "nav_services": "Leistungen",
+    "nav_journal": "Journal"
+  }
+}
